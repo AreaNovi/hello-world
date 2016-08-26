@@ -1,4 +1,4 @@
 # hello-world
 Training repository
 
-This repository is intended to experiment and learn about GitHub.
+This repository has been created to experiment and learn about GitHub.
